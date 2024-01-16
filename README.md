@@ -25,7 +25,7 @@ cd rpa_challenge
 All the instructions to run is assuming that you have Poetry installed and you are on rpa_challenge directory
 
 
-On the inthegration_tests directory run this command to install all the projects dependencies:
+On the rpa_challenge directory run this command to install all the projects dependencies:
 ```
 poetry install
 ```
